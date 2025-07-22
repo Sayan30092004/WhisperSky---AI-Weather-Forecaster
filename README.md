@@ -1,18 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to WhisperSky
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/13cb2574-992c-40cd-9e81-7f00d0034f13
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/13cb2574-992c-40cd-9e81-7f00d0034f13) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
