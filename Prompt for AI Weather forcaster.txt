@@ -1,0 +1,24 @@
+can you build a ai weather app, which have the following features:
+1. it should use the open weather api to fetch the weather report of current location or the searched location by the user
+2. Current Time Display
+	- Displays current time at the top-left corner.
+3. Temperature Display: Large bold display of Current temperature (°C/°F switch) .
+4. Weather Condition: Text description of current weather (e.g. Intermittent clouds).
+5. Temperature Range & Feels Like: 
+	-Shows minimum and maximum temperature of the day.
+	-Displays “Feels like” temperature for real-feel conditions.
+6. Dynamic Weather Background: Background matches current weather (e.g. cloudy sky image with clouds).
+7. Hourly Forecast Graph: 
+	-A horizontal time slider showing:
+	-Current and upcoming hours.
+	-Temperature and weather icons for each hour.
+	-Rain percentage for hours with rain possibility.
+8. Daily Forecast Section:
+    -Displays:
+	-Day and date.
+	-Weather icon for that day.
+	-Rain probability percentage.
+	-Minimum and maximum temperature.
+9. a search bar to search the location, so the open weather api could fetch the weather report of that location
+10. Responsive Design: Layout suitable for both laptop and mobile screens with clear readability and spacing.
+11. also at the bottom right corner add a floating chatbot logo... that after cicking on it the chatbot will appers... it will suggest the user the outfit or the places to visit according to the weather of surroundings...add the button options according to that.. and also add a text input section to interact with the bot ..use openai api key to make the interation with the chatbot more proficient.
