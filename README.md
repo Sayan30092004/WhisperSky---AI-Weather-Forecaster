@@ -3,6 +3,12 @@
 
 WhisperSky is an AI-powered weather forecasting application designed to provide users with accurate, real-time weather information and forecasts in a visually appealing, responsive interface.
 
+<img width="775" height="474" alt="favicon" src="https://github.com/user-attachments/assets/5e469d95-8280-46f4-85d4-56a33c652461" />
+
+
+https://github.com/user-attachments/assets/e1a863a4-eaf7-4b4e-8db6-c0986cebfaed
+
+
 ## 🌤️ Features
 
 - **AI Weather Forecasting:** Uses advanced AI models to generate precise weather forecasts.
